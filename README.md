@@ -1,6 +1,6 @@
 # Book Management API
 
-A RESTful API for managing books and fetching weather data using OpenWeather API. Built with Node.js, Express, and MongoDB.
+A RESTful API for managing books and fetching weather data using Weather API. Built with Node.js, Express, and MongoDB.
 
 ## Features
 - CRUD operations for books (Create, Read, Update, Delete).
