@@ -17,6 +17,9 @@ A RESTful API for managing books and fetching weather data using OpenWeather API
 Use Insomnia or Postman.
 Example:
 ![image](https://github.com/user-attachments/assets/5058189c-25c3-4c58-858b-51dece766ab3)
+or use swagger go for http://localhost:3000/api-docs/#/
+Example:
+![image](https://github.com/user-attachments/assets/f96d8b16-b540-4953-b10d-cf1274a00d1c)
 
 ## API Endpoints
 GET     /api/books       Fetch all books
