@@ -19,7 +19,7 @@ A RESTful API for managing books and fetching weather data using OpenWeather API
    npm install
    Set up .env
    node app.js
-   (server run on http://localhost:3000)
+   (server run on http://localhost:3000)```
 
 ## Test
 use insomnia or postman
