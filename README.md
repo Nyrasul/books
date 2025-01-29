@@ -11,7 +11,7 @@ A RESTful API for managing books and fetching weather data using OpenWeather API
 - Node.js
 - npm (Node Package Manager)
 - MongoDB
-- OpenWeather API key (sign up at [https://openweathermap.org/api](https://openweathermap.org/api))
+- weatherAPI key 
 
 ## Test
 Use Insomnia or Postman.
